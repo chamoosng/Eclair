@@ -1,0 +1,19 @@
+{
+    "name": "ckanthd/eclair",
+    "description": "Eclair is Simple PHP micro framework",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "ckanthd",
+            "email": "zpunsss@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eclair\\": "src/"
+        }
+    },
+    "require": {}
+}
